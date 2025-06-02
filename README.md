@@ -1,24 +1,39 @@
-👋 Hi, I'm **Surya S** — an aspiring AI engineer passionate about building intelligent systems that make real-world impact.
+# 👋 Hello, I'm Surya!
 
-🎓 **Integrated MSc. AIML @ CIT (2025)**
-📍 Based in Coimbatore
+[![GitHub followers](https://img.shields.io/github/followers/S-U-R-Y-A-1?style=social)](https://github.com/S-U-R-Y-A-1)
+[![Visitors](https://komarev.com/ghpvc/?username=S-U-R-Y-A-1&color=blue)](https://github.com/S-U-R-Y-A-1)
 
-🔬 I work on:
+Welcome to my GitHub profile! I'm a passionate developer exploring the world of code and open-source contributions.
 
-* 🧠 Deep Learning (NLP, Computer Vision)
-* 🧾 Financial Tech & Investment Strategy
-* 🧪 Reinforcement Learning (currently exploring n-step Sarsa)
-* 📊 Data Visualization & Embedding Analysis (IMDb NLP & X-ray imaging)
+## 🛠️ Technologies & Tools
 
-🧰 Tech Stack:
-`Python` | `PyTorch` | `FastAPI` | `Flutter` | `Angular` | `SQLite` | `HuggingFace` | `Scikit-learn`
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, React
+- Tools: Git, GitHub, VS Code
+- Currently learning: Full Stack Development
 
-🌱 Exploring:
+## 🌱 My GitHub Stats
 
-* Fine-tuning LLMs
-* Positional encoding in transformers
-* Dental X-ray image analysis with CNNs
-* Quiz chatbot using page-wise auto-navigation in Flutter
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-U-R-Y-A-1&theme=radical" />
+</p>
 
-📫 Let’s connect:
-[LinkedIn](http://www.linkedin.com/in/suryasivakumar1) | [Email](mailto:suryasabari7711@gmail.com) 
+## 🔭 Current Projects
+
+- Working on web development projects
+- Contributing to open source
+- Building my programming skills
+
+## 📫 How to reach me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
+## ⚡ Fun Fact
+
+When I'm not coding, I love to [your hobby/interests]!
+
+---
+
+⭐ From [Surya](https://github.com/S-U-R-Y-A-1)
