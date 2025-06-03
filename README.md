@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 - Currently learning: Full Stack Development
 
 ## 🌱 My GitHub Stats
-
+![S-U-R-Y-A-1's Stats](https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-U-R-Y-A-1&theme=radical" />
