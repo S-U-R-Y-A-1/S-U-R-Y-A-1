@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 <p align="center">
 
 ![S-U-R-Y-A-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-U-R-Y-A-1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-U-R-Y-A-1&theme=radical" />
-</p>
+  </p>
 
 ## 🔭 Current Projects
 
