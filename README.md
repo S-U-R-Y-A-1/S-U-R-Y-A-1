@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I love to [watch sitcoms]!
+When I'm not coding, I love to watch sitcoms!!!
 
 ---
 
