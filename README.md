@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, Java, JavaScript
-- Web Development: HTML, CSS, React
-- Tools: Git, GitHub, VS Code
-- Currently learning: Full Stack Development
+- Languages: Python, Java, C, HTML/CSS, TypeScript, SQL, Dart
+- Technologies/Frameworks: Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV, NLTK, OpenAI, PySpark, Linux
+- Developer Tools: VS Code, Eclipse, Android Studio, Git, GitHub, Docker, Firebase
+- Currently learning: Reinforcement Learning, Full Stack & Generative AI.
 
 ## 🌱 My GitHub Stats
 ![S-U-R-Y-A-1's Stats](https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:suryasabari7711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryasivakumar1/)
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I love to [your hobby/interests]!
+When I'm not coding, I love to [watch sitcoms]!
 
 ---
 
